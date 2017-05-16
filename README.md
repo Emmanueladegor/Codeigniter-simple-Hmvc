@@ -26,6 +26,9 @@ This is a demisified HMVC in codeigniter
 --Edit your config file as mine is set to : $config['base_url'] = 'http://localhost/bread/';
 
 
+--Access this folder using localhost/bread due to the above custom base_url. I did a REWRITE on \.htaccess already so no need 
+for you do this: localhost/index.php/bread just do this localhost/bread
+
 
 PS- I made this as Basic and Simple as Possible for Codeigniter beginners to Understand quickly
 
