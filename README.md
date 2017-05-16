@@ -1,4 +1,4 @@
-This is a demisified HMVC in codeigniter
+This is a demisified HMVC in codeigniter 3.*
 
 --For Hmvc to work here, I used wiredesignz-codeigniter-modular-extensions
 
